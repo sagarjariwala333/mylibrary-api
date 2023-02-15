@@ -29,6 +29,7 @@
     "mysql": "^2.18.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0",
+    "sourcemap-codec": "^1.4.8",
     "typeorm": "^0.3.12"
   },
   "devDependencies": {
